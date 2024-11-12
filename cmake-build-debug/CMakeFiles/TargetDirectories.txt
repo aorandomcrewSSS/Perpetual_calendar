@@ -1,0 +1,3 @@
+/Users/danilbogomolov/Desktop/C++/Perpetual calendar/cmake-build-debug/CMakeFiles/Perpetual_calendar.dir
+/Users/danilbogomolov/Desktop/C++/Perpetual calendar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danilbogomolov/Desktop/C++/Perpetual calendar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
